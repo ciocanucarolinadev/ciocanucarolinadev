@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ciocanucarolinadev
 - 👀 I’m interested in web development,
-- 🌱 I’m currently learning Ract and Vue
-- 💞️ I’m looking to collaborate on the development of web applications
+- 🌱 I’m currently learning Ract, Vue, Angular, React Native.
+- 💞️ I’m looking to collaborate on the development of web and mobile applications
 - 📫 How to reach me: email: ciocanu.carolina.dev@gmail.com
 
 <!---
