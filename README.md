@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ciocanucarolinadev
+- 👋 Hi, I’m Carolina
 - 👀 I’m interested in web development,
-- 🌱 I’m currently learning Ract, Vue, Angular, React Native.
+- 🌱 I’m working with React, Angular, Vue, and React Native.
 - 💞️ I’m looking to collaborate on the development of web and mobile applications
 - 📫 How to reach me: email: ciocanu.carolina.dev@gmail.com
 
